@@ -1,4 +1,6 @@
-# Bitcoin Glossary
+# Grandma Betty's Bitcoin Glossary
+
+Total entries: 112
 
 * Address
 An address is used to send or receive bitcoin like an email address is used to send and receive email. 
@@ -336,7 +338,7 @@ Web wallets are online services that store private keys for users, and can be ac
 Software wallet refers to a computer program that a user downloads and uses to hold bitcoin private keys.
 
 
-Total entries: 112
+
 
 
 

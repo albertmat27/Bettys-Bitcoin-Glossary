@@ -1,4 +1,4 @@
-ds# Bitcoin Glossary
+# Bitcoin Glossary
 
 * Address
 An address is used to send or receive bitcoin like an email address is used to send and receive email. 
